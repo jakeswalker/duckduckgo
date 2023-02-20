@@ -19,7 +19,7 @@ body, nav, i, .accordion-item {
 }
 .closeButton {
   position: absolute;
-  right: 0; 
+  right: 0;
 }
 .sideMenuClose {
   background-color: transparent;
